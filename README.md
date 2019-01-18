@@ -1,1 +1,1 @@
-# online-Banking
+This is an online banking framework web application for WAP Course in my master degree. the project mainly focus on applying Java Web Technologies and create framework that can be used for an online banking application. the project is not concered with the web application itself but interested in how to apply (JSP,Servlet,Jquery,Ajax,Javascript,Bootstrap).
